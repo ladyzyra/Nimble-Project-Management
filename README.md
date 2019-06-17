@@ -5,7 +5,7 @@ Nimble Project Management is a coding methodology adapted from Agile but for ind
 
 # Status: In Development
 
-We are currently ironing out the manifesto to adopt the agile method for individuals. Hope in the dicussion and feel free to pull and propose any change you want. Be sure to explain the logical reason for doing so (how it would best help on individual terms). Anything labeled [NEEDS ADAPTION] is an agile method needing adaption for an individual.  
+We are currently ironing out the manifesto to adopt the agile method for individuals. Hop in the dicussion and feel free to pull and propose any change you want. Be sure to explain the logical reason for doing so (how it would best help on individual terms). Anything labeled [NEEDS ADAPTION] is an agile method needing adaption for an individual.  
 
 # Nimble Manifesto
 
